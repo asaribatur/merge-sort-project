@@ -1,6 +1,6 @@
 # Merge Sort Project
 
-Click here[here](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) to see project page.
+Click [here](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) to see project page.
 
 Merge Sort is one of the most popular [sorting algorithms](https://www.programiz.com/dsa/sorting-algorithm) that is based on the principle of [Divide and Conquer Algorithm](https://www.programiz.com/dsa/divide-and-conquer).
 
